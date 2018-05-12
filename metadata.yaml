@@ -1,0 +1,32 @@
+_repo: The-Whence-and-the-Whither-of-Man--13-A-Brief-History-of-His-Origin-and-Development-through-C__14834
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tyler, John M. (John Mason)
+    alias: Tyler, John Mason
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '5710'
+    url: http://www.gutenberg.org/2009/agents/5710
+    wikipedia:
+    - http://asteria.fivecolleges.edu/findaids/amherst/ma41.html
+    - http://www.amherst.edu/~rjyanco94/genealogy/acbiorecord/1873.html#tyler-jm
+description: ''
+gutenberg_issued: '2005-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14834'
+  lccn: '06011273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcc 'QH'
+title: "The Whence and the Whither of Man\r\nA Brief History of His Origin and Development\
+  \ through Conformity to Environment; Being the Morse Lectures of 1895"
+url: http://www.gutenberg.org/ebooks/14834
